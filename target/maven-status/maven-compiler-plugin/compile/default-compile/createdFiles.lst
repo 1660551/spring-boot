@@ -1,0 +1,12 @@
+com\laptrinhjavaweb\entity\CategoryEntity.class
+com\laptrinhjavaweb\entity\NewEntity.class
+com\laptrinhjavaweb\service\ICategoryService.class
+com\laptrinhjavaweb\dto\AbstractDTO.class
+com\laptrinhjavaweb\api\NewAPI.class
+com\laptrinhjavaweb\dto\NewDTO.class
+com\laptrinhjavaweb\entity\RoleEntity.class
+com\laptrinhjavaweb\service\INewService.class
+com\laptrinhjavaweb\service\impl\NewService.class
+com\laptrinhjavaweb\entity\BaseEntity.class
+com\laptrinhjavaweb\entity\UserEntity.class
+com\laptrinhjavaweb\Application.class
